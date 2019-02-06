@@ -15,7 +15,7 @@ Example Usage:
 Will Redirect to: https://forum.freecodecamp.com
 
 
-Standard Phoenix project instructions:
+## Phoenix Instructions
 
 To start your Phoenix server:
 
