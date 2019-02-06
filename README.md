@@ -10,6 +10,7 @@ User Story:
     3. When I visit the shortened URL, it will redirect me to my original link.
     
 Example Usage:
+
 [this_project_url]/api/shorturl/3
 Will Redirect to:
 
