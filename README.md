@@ -12,9 +12,7 @@ User Story:
 Example Usage:
 
 [this_project_url]/api/shorturl/3
-Will Redirect to:
-
-https://forum.freecodecamp.com
+Will Redirect to: https://forum.freecodecamp.com
 
 
 To start your Phoenix server:
